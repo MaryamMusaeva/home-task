@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\lesson3.csproj": {}
+    "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\task1\\lesson3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\lesson3.csproj": {
+    "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\task1\\lesson3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\lesson3.csproj",
+        "projectUniqueName": "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\task1\\lesson3.csproj",
         "projectName": "lesson3",
-        "projectPath": "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\lesson3.csproj",
+        "projectPath": "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\task1\\lesson3.csproj",
         "packagesPath": "C:\\Users\\Марьям\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\obj\\",
+        "outputPath": "C:\\Users\\Марьям\\Documents\\geek HW\\lesson3\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Марьям\\AppData\\Roaming\\NuGet\\NuGet.Config"
